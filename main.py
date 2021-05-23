@@ -2,7 +2,6 @@
 import os
 import csv
 from pathlib import Path
-
 # File
 Py_Bank = Path("D:\CODE\Homework3\Python-Challenge\Resources")
 with open(Py_Bank, newline="") as csvfile:
